@@ -23,10 +23,8 @@ pip install -r requirements.txt --index-url https://download.pytorch.org/whl/cu1
 ```
 The `index-url` arg is meant so that the PyTorch version installed is for CUDA 11.8. `no-cache-dir` ensures that it won't use the cached library from the system since most of the versions in here are new and probably not in your system.
 
-## Repository Content
-### Jupyter Notebook
-
-### Python Scripts
+### 3. Run the notebook!
+That's it for the configurations. Python scripts will be coming soon.
 
 ## Reference
 ### Theoretical
